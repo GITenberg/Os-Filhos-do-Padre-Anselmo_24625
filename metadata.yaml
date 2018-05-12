@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26628'
     url: http://www.gutenberg.org/2009/agents/26628
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24625#Os-Filhos-do-Padre-Anselmo
 gutenberg_issued: '2008-02-15'
 gutenberg_type: Text
 identifiers:
